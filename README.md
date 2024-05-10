@@ -7,8 +7,9 @@
 
 ### GitHub Temelleri**
 
+OhMyZsh Config dosyası => [.zshrc](https://github.com/KaramGuliyev/JuniusTechGithub/blob/main/.zshrc)
 
-
+![](https://gcdnb.pbrd.co/images/e6AExaD0ZbN3.png?o=1)
 - Github global config listeleme
 
         git config --list / --l
