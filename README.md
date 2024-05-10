@@ -49,7 +49,7 @@
 
 ### İşbirliği ve Proje Yönetimi
 
-![](blob:https://stackedit.io/a2232f6f-1b51-4b3f-a805-941e20654c0b)
+![](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*dRtIbjRK64BCbXzT7f_rPw.png)
 
 -   Proje katkılarını değerlendirme: çekme istekleri (pull requests) oluşturma, gözden geçirme ve birleştirme adımlarını gösterme.
 
