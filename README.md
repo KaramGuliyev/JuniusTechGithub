@@ -7,6 +7,8 @@
 
 ### GitHub Temelleri**
 
+
+
 - Github global config listeleme
 
         git config --list / --l
