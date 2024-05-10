@@ -23,17 +23,18 @@ OhMyZsh Config dosyası => [.zshrc](https://github.com/KaramGuliyev/JuniusTechGi
 
 -   Bir repo oluşturma ve temel bilgilerini doldurmak.
 
-	git init 
+        git init 
         git remote add origin <repository_url>
         touch README.md
         git add README.md / .
         git commit -m "First commit"
         git push -u origin main
 
+
 -   Temel git komutlarını (clone, add, commit, push ve pull) açıklama ve göstermek.
 
         git clone <repository_url>
-        git add .
+        git add . / git add folder_name / git add doc_name
         git commit -m "Değişiklikleri açıklama"
         git push <origin> <branch>
         
