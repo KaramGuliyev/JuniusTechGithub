@@ -60,6 +60,9 @@ OhMyZsh Config dosyası => [.zshrc](https://github.com/KaramGuliyev/JuniusTechGi
 
 ![](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*dRtIbjRK64BCbXzT7f_rPw.png)
 
+develope/future/api
+hotfix/apiFix
+
 -   Proje katkılarını değerlendirme: çekme istekleri (pull requests) oluşturma, gözden geçirme ve birleştirme adımlarını gösterme.
 
 ### Soru-Cevap ve Geri Bildirim
